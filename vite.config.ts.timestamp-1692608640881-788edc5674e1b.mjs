@@ -1,6 +1,6 @@
 // vite.config.ts
 import { defineConfig } from "file:///C:/sourcecode/piercing/node_modules/vitest/dist/config.js";
-import react from "file:///C:/sourcecode/piercing/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import react from "file:///C:/sourcecode/PonTatto/node_modules/@vitejs/plugin-react/dist/index.mjs";
 var vite_config_default = defineConfig({
   plugins: [react()],
   server: {
