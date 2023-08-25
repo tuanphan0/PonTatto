@@ -1,0 +1,45 @@
+.footer {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 0, 0.616),
+    #181717
+  );
+  color: white;
+  margin-top: 0;
+  font-family: Exo;
+  .ant-list-item-meta-title {
+    a {
+      color: white;
+    }
+  }
+  .ant-list-item-meta-description {
+    color: white;
+  }
+  .ant-list-item {
+    border: none;
+  }
+
+  .footer-end {
+    font-family: Exo;
+    border-top: 1px solid rgb(184, 182, 182);
+    margin-top: 10px;
+    padding-top: 10px;
+    .circle1 {
+      border-radius: 50%;
+      box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+      height: 1.5em;
+      width: 1.5em;
+      cursor: pointer;
+    }
+    .footer-icon {
+      display: flex;
+      justify-content: flex-start;
+      gap: 10px;
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  .footer-icon {
+    margin-top: 10px;
+  }
+}
