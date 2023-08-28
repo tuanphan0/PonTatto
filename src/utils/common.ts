@@ -3,7 +3,7 @@ import { routers } from "../components/Router/router.config"
 export const test = ""
 export const getPageTitle = (pathname: string) => {
   const route = routers.filter((route) => route.path === pathname)
-  const localizedAppName = "Piercing"
+  const localizedAppName = "PON TATTOO"
   if (!route || route.length === 0) {
     return localizedAppName
   }

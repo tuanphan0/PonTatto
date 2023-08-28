@@ -704,7 +704,7 @@ const Home = () => {
                           DEVELOPER
                         </Text>
                         <Text className="text-about-des">
-                          He's created Website. A person important in the team.
+                          He created Website. A person important in the team.
                         </Text>
                       </Col>
                       <img src={teacher2} />
@@ -726,7 +726,7 @@ const Home = () => {
                           DEVELOPER
                         </Text>
                         <Text className="text-about-des">
-                          He's created Website. A person important in the team.
+                          He created Website. A person important in the team.
                         </Text>
                       </Col>
                       <img src={slider2} />
@@ -748,7 +748,7 @@ const Home = () => {
                           DEVELOPER
                         </Text>
                         <Text className="text-about-des">
-                          He's created Website. A person important in the team.
+                          He created Website. A person important in the team.
                         </Text>
                       </Col>
                       <img src={slider1} />
@@ -770,7 +770,7 @@ const Home = () => {
                           DEVELOPER
                         </Text>
                         <Text className="text-about-des">
-                          He's created Website. A person important in the team.
+                          He created Website. A person important in the team.
                         </Text>
                       </Col>
                       <img src={slider3} />
