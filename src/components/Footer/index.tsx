@@ -45,13 +45,13 @@ const FooterPage = () => {
   ]
   const btnFace = () => {
     window.open(
-      "https://www.facebook.com/PonNguyenTattoo",
+      "https://www.facebook.com/Pontattoostudio",
       "_blank",
     )
   }
   const btnIngram = () => {
     window.open(
-      "https://www.facebook.com/PonNguyenTattoo",
+      "https://www.facebook.com/Pontattoostudio",
       "_blank",
     )
   }

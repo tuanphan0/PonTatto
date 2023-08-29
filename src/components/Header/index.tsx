@@ -139,7 +139,7 @@ const HeaderPage = ({ history, change }: IHeaderProps) => {
                 <Col span={24} className="show-icon">
                   <span className="show-icon-fb-ingram">
                     <a
-                      href="https://www.facebook.com/PonNguyenTattoo"
+                      href="https://www.facebook.com/Pontattoostudio"
                       target={"_blank"}
                     >
                       <Avatar
@@ -150,7 +150,7 @@ const HeaderPage = ({ history, change }: IHeaderProps) => {
                       />
                     </a>
                     <a
-                      href="https://www.facebook.com/PonNguyenTattoo"
+                      href="https://www.facebook.com/Pontattoostudio"
                       target={"_blank"}
                     >
                       <Avatar shape="square" size={24} src={instagram} />
